@@ -281,11 +281,11 @@
             <mxPoint x="2" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Nka0kOHONgRf91_0NxBO-57" value="Sơ đồ đăng nhập" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;html=1;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry y="-770" width="670" height="530" as="geometry" />
+        </mxCell>
         <mxCell id="Nka0kOHONgRf91_0NxBO-56" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="-650" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="Nka0kOHONgRf91_0NxBO-57" value="Sơ đồ đăng nhập" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-770" width="670" height="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

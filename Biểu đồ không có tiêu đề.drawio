@@ -382,6 +382,145 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FLIYc33DawxC5axik79_-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-3" value="Trang chủ" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-4" value="Quản lí khách hàng" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-5" value="KhachHangController&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="70" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-6" value="Data" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="10" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="370" y="130" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-10" value="Danh sách khách hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="FLIYc33DawxC5axik79_-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="90" y="190" as="sourcePoint" />
+            <mxPoint x="170" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-11" value="Chuyển trang" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="FLIYc33DawxC5axik79_-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="230" y="190" as="sourcePoint" />
+            <mxPoint x="310" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-12" value="Action lấy dữ liệu&amp;nbsp;&lt;div&gt;khách hàng&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="190" as="sourcePoint" />
+            <mxPoint x="510" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-14" value="Query danh sách Khách Hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="FLIYc33DawxC5axik79_-15">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="530" y="190" as="sourcePoint" />
+            <mxPoint x="720" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="735" y="170" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-16" value="Thông tin ds Khách Hàng" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="sourcePoint" />
+            <mxPoint x="90" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-17" value="Nhập thông tin KH mới" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="85" y="350" as="sourcePoint" />
+            <mxPoint x="365" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-19" value="Action Insert" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="FLIYc33DawxC5axik79_-18" parent="1" source="FLIYc33DawxC5axik79_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="285" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="460" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-20" value="Trang thêm mới KH" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1" target="FLIYc33DawxC5axik79_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="330" as="targetPoint" />
+            <mxPoint x="510" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-23" value="Trả về ds Khách Hàng" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" target="FLIYc33DawxC5axik79_-9" parent="1">
+          <mxGeometry x="0.5385" y="-10" relative="1" as="geometry">
+            <mxPoint x="380" y="510" as="sourcePoint" />
+            <mxPoint x="510" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="510" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-25" value="Insert query" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <mxPoint x="740" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="735" y="400" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-27" value="Result" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="FLIYc33DawxC5axik79_-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="439.5" as="sourcePoint" />
+            <mxPoint x="665" y="439.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-30" value="Load danh sách KH" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="FLIYc33DawxC5axik79_-29" parent="1" source="FLIYc33DawxC5axik79_-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="490" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="550" y="460" />
+              <mxPoint x="550" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-35" value="Cập nhật danh sách" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="FLIYc33DawxC5axik79_-9" target="FLIYc33DawxC5axik79_-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="540" as="sourcePoint" />
+            <mxPoint x="280" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLIYc33DawxC5axik79_-36" value="Action Insert&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="380" y="400" as="sourcePoint" />
+            <mxPoint x="510" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

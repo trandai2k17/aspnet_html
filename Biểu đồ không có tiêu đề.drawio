@@ -2296,7 +2296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-hQnOCqn1J0tpogrgBAc-25" value="Thông tin&lt;div&gt;tài khoản&lt;/div&gt;" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="781" y="-1081" width="123" height="90" as="geometry" />
+          <mxGeometry x="840.5" y="-1082" width="123" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BgZWXYL3nY003Vg1qbHw-1" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="744.5" y="-637.5" width="30" height="60" as="geometry" />

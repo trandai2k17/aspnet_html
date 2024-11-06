@@ -3306,6 +3306,104 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-1" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790.5" y="1373.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-2" value="&lt;div&gt;ApartmentController&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1178.5" y="1387.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="800.5" y="1473.5" width="5.76" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-4" value="Xem danh sách" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="llJ0rc_fOvaOm2XRXt7x-5" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="813.5" y="1493.5" as="sourcePoint" />
+            <mxPoint x="890.5" y="1493.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="910.5" y="1473.5" width="10" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1223.5" y="1487.5" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-7" value="Load danh sách Căn hộ" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="llJ0rc_fOvaOm2XRXt7x-6" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="920.5" y="1503" as="sourcePoint" />
+            <mxPoint x="1000.5" y="1503" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-8" value="Query Select data Aparment&lt;div&gt;Amaternities&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="llJ0rc_fOvaOm2XRXt7x-9" parent="1">
+          <mxGeometry x="0.0067" width="80" relative="1" as="geometry">
+            <mxPoint x="1234.45" y="1513.5" as="sourcePoint" />
+            <mxPoint x="1314.45" y="1513.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1410.5" y="1473.5" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410.5" y="1543.5" as="sourcePoint" />
+            <mxPoint x="1233.5" y="1543.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-11" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1224.45" y="1553.52" as="sourcePoint" />
+            <mxPoint x="920.5" y="1553.504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="907.5" y="1583.5" width="10" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1220.5" y="1597.5" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-14" value="Lọc Apartment theo Name, Size, Bedrooms, Bathrooms" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="llJ0rc_fOvaOm2XRXt7x-13" parent="1">
+          <mxGeometry x="0.0033" width="80" relative="1" as="geometry">
+            <mxPoint x="917.5" y="1613" as="sourcePoint" />
+            <mxPoint x="997.5" y="1613" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-15" value="Query Dịch vụ theo&lt;div&gt;&amp;nbsp;điều kiện WHERE&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="llJ0rc_fOvaOm2XRXt7x-16" parent="1">
+          <mxGeometry x="-0.0059" y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="1231.45" y="1623.5" as="sourcePoint" />
+            <mxPoint x="1311.45" y="1623.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1410.5" y="1583.5" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410.5" y="1653.5" as="sourcePoint" />
+            <mxPoint x="1230.5" y="1653.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-18" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1221.45" y="1663.52" as="sourcePoint" />
+            <mxPoint x="917.5" y="1663.504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-19" value="Tìm kiếm" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="llJ0rc_fOvaOm2XRXt7x-12" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="810.5" y="1603.5" as="sourcePoint" />
+            <mxPoint x="887.5" y="1603.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-20" value="Xem thông tin căn hộ" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865.5" y="1369.5" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="llJ0rc_fOvaOm2XRXt7x-21" value="Database" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1367.5" y="1366" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

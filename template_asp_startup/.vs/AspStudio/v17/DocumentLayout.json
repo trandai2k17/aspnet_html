@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|f:\\0myproject\\2html, css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|f:\\0myproject\\2html, css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\sidebar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\sidebar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\aspstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\aspstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\wwwroot\\lib\\jszip\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\wwwroot\\lib\\jszip\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\aspstudio\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|AspStudio\\AspStudio.csproj|solutionrelative:aspstudio\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "AspStudio\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "AspStudio\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:42:30.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspStudio\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspStudio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:42:13.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "AspStudio\\Controllers\\TestController.cs",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Controllers\\TestController.cs",
+              "RelativeToolTip": "AspStudio\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:23:05.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sidebar.json",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\sidebar.json",
+              "RelativeDocumentMoniker": "AspStudio\\sidebar.json",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\sidebar.json",
+              "RelativeToolTip": "AspStudio\\sidebar.json",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAAwG4BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T14:22:11.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AspStudio.csproj",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\AspStudio.csproj",
+              "RelativeDocumentMoniker": "AspStudio\\AspStudio.csproj",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\AspStudio.csproj",
+              "RelativeToolTip": "AspStudio\\AspStudio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-22T13:57:51.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Startup.cs",
+              "RelativeDocumentMoniker": "AspStudio\\Startup.cs",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Startup.cs",
+              "RelativeToolTip": "AspStudio\\Startup.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:51:41.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspStudio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspStudio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T13:51:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Program.cs",
+              "RelativeDocumentMoniker": "AspStudio\\Program.cs",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Program.cs",
+              "RelativeToolTip": "AspStudio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:49:20.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.d.ts",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\wwwroot\\lib\\jszip\\index.d.ts",
+              "RelativeDocumentMoniker": "AspStudio\\wwwroot\\lib\\jszip\\index.d.ts",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\wwwroot\\lib\\jszip\\index.d.ts",
+              "RelativeToolTip": "AspStudio\\wwwroot\\lib\\jszip\\index.d.ts",
+              "ViewState": "AQIAAJwAAAAAAAAAAADwv6kAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-22T13:38:21.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package.json",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\package.json",
+              "RelativeDocumentMoniker": "AspStudio\\package.json",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\package.json",
+              "RelativeToolTip": "AspStudio\\package.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-16T15:56:33.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspStudio\\Views\\Test\\Index.cshtml",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "AspStudio\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T14:23:19.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspStudio\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspStudio\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T13:38:01.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AspStudio\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "F:\\0MyProject\\2HTML, Css\\aspstudionet-41\\aspstudionet-41\\asp_studio_v4.1\\template_asp_startup\\AspStudio\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "AspStudio\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T13:37:55.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
